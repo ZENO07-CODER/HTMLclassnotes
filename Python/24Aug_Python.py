@@ -1,0 +1,5 @@
+a=int(input(13))
+b=int(input(56))
+print("a & b is", a&b )
+print("a | b is", a|b )
+print("a ^ b is", a^b )
